@@ -1,0 +1,32 @@
+.sidebar {
+  background-color: rgba(0, 124 255, 100);
+}
+
+.btn-danger {
+  background-color: white;
+  color: red;
+}
+
+.btn-danger:hover {
+  background-color: red;
+  color: white;
+}
+
+.btn-primary {
+  background-color: white;
+  color: blue;
+}
+
+.btn-primary:hover {
+  background-color: blue;
+  color: white;
+}
+.btn-warning {
+  background-color: yellow;
+  color: black;
+}
+
+.btn-warning:hover {
+  background-color: black;
+  color: yellow;
+}
